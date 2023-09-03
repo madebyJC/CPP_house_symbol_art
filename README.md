@@ -1,1 +1,1 @@
-![CPP_house_symbol_art.png](..%2F..%2FDesktop%2FCPP_house_symbol_art.png)
+![CPP_house_symbol_art.png](image%2FCPP_house_symbol_art.png)
